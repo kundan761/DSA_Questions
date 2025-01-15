@@ -29,3 +29,5 @@ public class Anagrams {
         System.out.println(anagrams(str1, str2));
     }
 }
+
+// anagram are special type of string in which both string have same number of character and the length should be equal.
